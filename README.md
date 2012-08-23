@@ -1,4 +1,4 @@
-helloworld
-==========
+bosdev demo package
+===================
 
-helloworld demo package
+helloworld : helloworld package
