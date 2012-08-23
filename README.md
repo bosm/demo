@@ -1,4 +1,5 @@
 bosdev demo package
 ===================
 
-helloworld : helloworld package
+    helloworld    : trivial Makefile helloworld package
+    helloautomake : automake helloworld package
